@@ -1,10 +1,7 @@
 # Spring Pet Clinic 
-
-All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
-
 This source code repository contains JUnit 5 and Spring Framework Testing examples.
 
-The main source code is a copy of the [Spring Framework Pet Clinic project](https://github.com/spring-petclinic/spring-framework-petclinic). This is a reference project 
+This is a reference project 
 using a traditional 3-layer architecture without Spring Boot.
 
 ## Setup
